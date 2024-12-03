@@ -4,9 +4,9 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class ProblemATest {
+public class ProblemDay1Test {
 
-    ProblemA a = new ProblemA("problem1_data_test.txt");
+    ProblemDay1 a = new ProblemDay1("problem1_data_test.txt");
 
     @Test
     public void solveForDistanceTest(){

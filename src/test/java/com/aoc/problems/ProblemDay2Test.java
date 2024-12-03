@@ -3,9 +3,9 @@ package com.aoc.problems;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
-public class ProblemBTest {
+public class ProblemDay2Test {
 
-    ProblemB nB = new ProblemB("problem2_data_test.txt");
+    ProblemDay2 nB = new ProblemDay2("problem2_data_test.txt");
 
     @Test
     public void safeReportsTest(){

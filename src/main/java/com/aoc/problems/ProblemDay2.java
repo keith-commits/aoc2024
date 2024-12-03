@@ -12,13 +12,13 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class ProblemB implements Problem {
+public class ProblemDay2 implements Problem {
 
     List<List<Integer>> data = new ArrayList<>();
 
     String dataPath;
 
-    public ProblemB(String dataPath) {
+    public ProblemDay2(String dataPath) {
         this.dataPath = dataPath;
     }
 
